@@ -1,0 +1,73 @@
+@charset "UTF-8";
+/*CSS Document*/
+ body{
+    width: 1000px;
+    margin: auto;
+ }
+ #header{
+    width: 1000px;
+    height: 70px;
+    background-color: #5ac4f6;
+    margin-bottom: 20PX;
+    width:100%;
+    margin-bottom: 20px;
+}
+ #Aside{
+    width: 1000px;
+    height:170px;
+    background-color:#eb539f;
+    width: auto;
+    margin-bottom: 20px;
+}
+
+.flex-container{
+    width: 100%;
+    height: auto;
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+}
+.flex-box1{
+    width: 300px;
+    height:130px;
+    background-color:#295ff4;
+    margin:10px;
+}
+
+.flex-box2{
+    width:300px;
+    height:130px;
+    background-color:#782cf6 ;
+    margin: 10px;
+}
+
+.flex-box3{
+    width:300px;
+    height:130px;
+    background-color:#6ce4cf;
+    margin:10px
+}
+.flex-box4{
+    width:300px;
+    height:130px;
+    background-color: #f6ce46;
+    margin:10px
+}
+.flex-box5{
+    width:300px;
+    height:130px;
+    background-color:#ea4d3d;
+    margin: 10px;
+}
+.flex-box6{
+    width:300px;
+    height:130px;
+    background-color:#ef8c00;
+     margin: 10px;
+}
+#footer{
+    width:1000px;
+    height:50px;
+    background-color: #64c466;
+    margin-top: 20px;
+}
